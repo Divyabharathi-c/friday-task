@@ -1,0 +1,4 @@
+QUS:Difference between HTTP1.1 VS HTTP2?
+ANS:HTTP 1.1 means information reuse.we ask any requst in http1.1 that will give response .and next time when we ask for the same request again it willbe stay in cache.
+QUS:About javascript object and internal representation in javascript?
+ANS:javascript mainly used to functions. then its object can have properties ex: design,color,object means weight and materials.
