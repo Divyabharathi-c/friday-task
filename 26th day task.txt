@@ -1,0 +1,8 @@
+1. Difference between window object and document object?
+ window object:
+        => The window object representing the window or tab.
+        => Mutiple tab browser a window object representa a single tab.
+
+Document object:
+          => The web page is loaded the browser creats a document object model of thge page.
+          => The document repersents the html document.
